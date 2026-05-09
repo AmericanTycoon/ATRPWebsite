@@ -217,7 +217,7 @@ img { max-width: 100%; display: block; }
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: url('Logo.jpg') center/cover no-repeat;
+  background: url('ATRPBackground.png') center/cover no-repeat;
 }
 
 .hero-overlay {
